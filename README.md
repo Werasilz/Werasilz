@@ -2,7 +2,7 @@
 
 ### &nbsp;About Me 🚀
 
-🖐️ &nbsp;I'm Unity game developer with a bachelor degree in Computer Game Multimedia.\
+🖐️ &nbsp;I'm Unity game developer.\
 🎓 &nbsp;I'm currently studying Computer Game and Esport at the Rangsit University.\
 🎮 &nbsp;I'm passionate about game design & development and Virtual Reality.\
 🌱 &nbsp;I enjoy learning new things.
