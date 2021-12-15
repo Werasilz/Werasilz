@@ -40,14 +40,15 @@
 ----
 ### &nbsp;Projects & Achievements 🖥️
 2021
+- RPG Game Development. [The Mooz : A Story of betrayal](https://youtu.be/jrZXdRgjems)
 - 360° Virtual Tour for tourism.
 - Game Jam.
   - GMTK Game Jam 2021. [Lost Directions](https://youtu.be/JmYGcF_nGXk)
 - VR Development.
   - VR Shooter Game. [Grab'n Shoot VR](https://youtu.be/WOkTBJXtwHo)
-  - VR Vaccine for kids.
+  - VR Vaccine for kids. 
   - Endoscopy for patient VR.
-  - VR Cardboard technology for agriculture. 
+  - VR Cardboard technology for agriculture. [Thailand 2077 Farming Tech VR](https://youtu.be/iwAmVzQL_bo)
 
 2020
 - National Software Contest 2021. [Adventure Demon World AR](https://youtu.be/p95r7JE4m0o)
