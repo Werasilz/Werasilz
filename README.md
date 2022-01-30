@@ -39,34 +39,46 @@
 
 ----
 ### &nbsp;Projects & Achievements 🖥️
+
+2022
+- Game Talent Showcase 2022 Presented by Bitkub.
+- Game Jam.
+  - Global Game Jam 2022 - Late Night Nurse. [Video](https://youtu.be/zoOjFW_cIaA) [Git](https://github.com/Werasilz/Late_Night_Nurse_GGJ_2022)
+
 2021
-- RPG Game Development. [The Mooz : A Story of betrayal](https://youtu.be/jrZXdRgjems)
+- RPG Game Development - The Mooz : A Story of betrayal. [Video](https://youtu.be/jrZXdRgjems)
 - 360° Virtual Tour for tourism.
 - Game Jam.
-  - GMTK Game Jam 2021. [Lost Directions](https://youtu.be/JmYGcF_nGXk)
+  - GMTK Game Jam 2021 - Lost Directions. [Video](https://youtu.be/JmYGcF_nGXk) [Git](https://github.com/Werasilz/Lost_Directions_GMTK_Game_Jam)
 - VR Development.
-  - VR Shooter Game. [Grab'n Shoot VR](https://youtu.be/WOkTBJXtwHo)
-  - VR Vaccine for kids. 
+  - VR Shooter Game - Grab'n Shoot VR. [Video](https://youtu.be/WOkTBJXtwHo) [Git](https://github.com/Werasilz/CGM499_FinalProject_Grab_n_Shoot_VR)
+  - VR Vaccine for kids. [Video](https://youtu.be/_QiUck2jxVw)
   - Endoscopy for patient VR.
-  - VR Cardboard technology for agriculture. [Thailand 2077 Farming Tech VR](https://youtu.be/iwAmVzQL_bo)
+  - VR Cardboard - Thailand 2077 Farming Tech VR. [Video](https://youtu.be/iwAmVzQL_bo) [Git](https://github.com/Werasilz/Thailand_2077_Farming_Tech_VR)
 
 2020
-- National Software Contest 2021. [Adventure Demon World AR](https://youtu.be/p95r7JE4m0o)
+- National Software Contest 2021 - Adventure Demon World AR. [Video](https://youtu.be/p95r7JE4m0o) [Git](https://github.com/Werasilz/NSC_2021_Adventure_Demon_World_AR)
 - Game Jam.
-  - Global Game Jam 2020.
-  - Game Jam From Home 2020. [Annoying Party House](https://youtu.be/JfK2sbaOtHk)
-- 2D & 3D Game Development. [DuckyBomb](https://youtu.be/W0L-RTE0svc) [Advanture2D](https://youtu.be/JNReJQcSimg)
-- AR Game Development. [EarthProtector](https://youtu.be/hOrXUDcJRhg) [ZombieShooterAR](https://youtu.be/Tr4RdN51q3g)
+  - Global Game Jam 2020 - Insomnia Just plant it. [Website](https://globalgamejam.org/2020/games/just-plant-it-7)
+  - Game Jam From Home 2020 - Annoying Party House. [Video](https://youtu.be/JfK2sbaOtHk)
+- 2D Game Development.
+  - DuckyBomb. [Video](https://youtu.be/W0L-RTE0svc) [Git](https://github.com/Werasilz/CGM244_MidtermProject_DuckyBomb)
+  - Advanture2D. [Video](https://youtu.be/JNReJQcSimg) [Git](https://github.com/Werasilz/CGM244_FinalProject_Advanture2D)
+- AR Game Development. 
+  - EarthProtector. [Video](https://youtu.be/hOrXUDcJRhg) [Git](https://github.com/Werasilz/CGM499_MidtermProject_EarthProtector)
+  - ZombieShooterAR. [Video](https://youtu.be/Tr4RdN51q3g)
 
 2019
-- Gaming Development Bootcamp. [TukTuk2077 express](https://youtu.be/50kIg9K64UU)
+- Gaming Development Bootcamp - TukTuk2077 express. [Video](https://youtu.be/50kIg9K64UU)
 
 2016 - 2018
 - Talent fair in Arts and Crafts Academic and Technology of students.
   - Computer Creative Game Making Competition.
     - 2018 - 2nd place at the national level.
-    - 2017 - 3rd place at the national level. [Clip](https://youtu.be/NyltXiypSEc)
-    - 2016 - 1st place at the national level. [Clip](https://youtu.be/XggtEimdq5w)
+    - 2017 - 3rd place at the national level. [Video](https://youtu.be/NyltXiypSEc)
+    - 2016 - 1st place at the national level. [Video](https://youtu.be/XggtEimdq5w)
+- High School Game Project
+  - Engine Construct 2. [Playlist](https://www.youtube.com/playlist?list=PLsC5wGKNY9vra0bvrs-2tODympZBeLG5a)
 
 ----
 ### &nbsp;Connect with Me 🤝
