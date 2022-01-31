@@ -83,6 +83,7 @@
 ----
 ### &nbsp;Connect with Me 🤝
 <p align="center">
+<a href="mailto:werasil.r@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.youtube.com/user/MrZenGamer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.facebook.com/werasil.z"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/werasilz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
