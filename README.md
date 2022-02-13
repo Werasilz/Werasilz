@@ -38,7 +38,7 @@
   - College Vice President, 2020 - Present, College of Digital Innovation Technology.
 
 ----
-### &nbsp;Projects & Achievements 🖥️
+### &nbsp;Work Experience 🖥️
 
 2022
 - Game Talent Showcase 2022 Presented by Bitkub.
