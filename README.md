@@ -81,6 +81,10 @@
   - Engine Construct 2. [Playlist](https://www.youtube.com/playlist?list=PLsC5wGKNY9vra0bvrs-2tODympZBeLG5a)
 
 ----
+### &nbsp;Certification 📄
+[Unity Certified User: Programmer](https://www.credly.com/badges/204ab3b3-8e51-47d7-a7aa-124b696ce305/public_url)
+
+----
 ### &nbsp;Connect with Me 🤝
 <p align="center">
 <a href="mailto:werasil.r@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=youtube&logoColor=white"></a>
