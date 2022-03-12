@@ -69,7 +69,7 @@
   - ZombieShooterAR. [Video](https://youtu.be/Tr4RdN51q3g)
 
 2019
-- Gaming Development Bootcamp - TukTuk2077 express. [Video](https://youtu.be/50kIg9K64UU)
+- OMEN by HP – Gaming Development Bootcamp Program Season 2 - TukTuk2077 express. [Video](https://youtu.be/50kIg9K64UU)
 
 2016 - 2018
 - Talent fair in Arts and Crafts Academic and Technology of students.
@@ -89,7 +89,7 @@
 <p align="center">
 <a href="mailto:werasil.r@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.youtube.com/user/MrZenGamer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.facebook.com/werasil.z"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/werasil-rerkweang-806287211/"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/werasilz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.reddit.com/user/Werasil_z"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/werasilz/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
