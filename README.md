@@ -3,7 +3,7 @@
 ### &nbsp;About Me 🚀
 
 🖐️ &nbsp;I'm Unity game developer.\
-🎓 &nbsp;I'm currently studying Computer Game and Esport at the Rangsit University.\
+🎓 &nbsp;I'm currently studying Computer Game Multimedia at the Rangsit University.\
 🎮 &nbsp;I'm passionate about game design & development and Virtual Reality.\
 🌱 &nbsp;I enjoy learning new things.
 
