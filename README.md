@@ -47,13 +47,13 @@
 
 2021
 - RPG Game Development - The Mooz : A Story of betrayal. [Video](https://youtu.be/jrZXdRgjems)
-- 360° Virtual Tour for tourism.
+- 360° Virtual Tour.
 - Game Jam.
   - GMTK Game Jam 2021 - Lost Directions. [Video](https://youtu.be/JmYGcF_nGXk) [Git](https://github.com/Werasilz/Lost_Directions_GMTK_Game_Jam)
 - VR Development.
   - VR Shooter Game - Grab'n Shoot VR. [Video](https://youtu.be/WOkTBJXtwHo) [Git](https://github.com/Werasilz/CGM499_FinalProject_Grab_n_Shoot_VR)
   - VR Vaccine for kids. [Video](https://youtu.be/_QiUck2jxVw)
-  - Endoscopy for patient VR.
+  - VR Endoscopy for patient.
   - VR Cardboard - Thailand 2077 Farming Tech VR. [Video](https://youtu.be/iwAmVzQL_bo) [Git](https://github.com/Werasilz/Thailand_2077_Farming_Tech_VR)
 
 2020
