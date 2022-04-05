@@ -47,7 +47,7 @@
 
 2021
 - RPG Game Development - The Mooz : A Story of betrayal. [Video](https://youtu.be/jrZXdRgjems)
-- Anan Horror Game. [Video](https://youtu.be/gApbeT6qsAo) [Git]()
+- Anan Horror Game. [Video](https://youtu.be/gApbeT6qsAo)
 - 360° Virtual Tour.
 - Game Jam.
   - GMTK Game Jam 2021 - Lost Directions. [Video](https://youtu.be/JmYGcF_nGXk) [Git](https://github.com/Werasilz/Lost_Directions_GMTK_Game_Jam)
