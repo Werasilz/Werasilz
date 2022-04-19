@@ -2,10 +2,7 @@
 
 ### &nbsp;About Me 🚀
 
-🖐️ &nbsp;I'm Unity game developer.\
-🎓 &nbsp;I'm currently studying Computer Game Multimedia at the Rangsit University.\
-🎮 &nbsp;I'm passionate about game design & development and Virtual Reality.\
-🌱 &nbsp;I enjoy learning new things.
+🖐️ &nbsp;I'm Unity game developer. Experience in 2D & 3D games, Mobile games Augmented Reality games, Virtual Reality games using Oculus / Cardboard, Virtual tour 360° and Metaverse on Spatial / Sandbox.
 
 ----
 ### Tech Stack 🛠
@@ -46,7 +43,7 @@
   - Global Game Jam 2022 - Late Night Nurse. [Video](https://youtu.be/zoOjFW_cIaA) [Git](https://github.com/Werasilz/Late_Night_Nurse_GGJ_2022)
 
 2021
-- RPG Game Development - The Mooz : A Story of betrayal. [Video](https://youtu.be/jrZXdRgjems)
+- RPG Game Development - The Mooz : A Story of betrayal. [Video](https://youtu.be/jrZXdRgjems) [itch.io](https://werasilz.itch.io/the-mooz)
 - Anan Horror Game. [Video](https://youtu.be/gApbeT6qsAo)
 - 360° Virtual Tour.
 - Game Jam.
