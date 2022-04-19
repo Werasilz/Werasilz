@@ -38,12 +38,12 @@
 ### &nbsp;Work Experience 🖥️
 
 2022
-- Game Talent Showcase 2022 Presented by Bitkub.
+- Game Talent Showcase 2022 Presented by Bitkub. [Video](https://youtu.be/uNNSdheJNBk) [itch.io](https://werasilz.itch.io/the-mooz)
 - Game Jam.
   - Global Game Jam 2022 - Late Night Nurse. [Video](https://youtu.be/zoOjFW_cIaA) [Git](https://github.com/Werasilz/Late_Night_Nurse_GGJ_2022)
 
 2021
-- RPG Game Development - The Mooz : A Story of betrayal. [Video](https://youtu.be/jrZXdRgjems) [itch.io](https://werasilz.itch.io/the-mooz)
+- RPG Game Development - The Mooz : A Story of betrayal. [Video](https://youtu.be/jrZXdRgjems)
 - Anan Horror Game. [Video](https://youtu.be/gApbeT6qsAo)
 - 360° Virtual Tour.
 - Game Jam.
