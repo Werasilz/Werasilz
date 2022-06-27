@@ -38,6 +38,7 @@
 ### &nbsp;Work Experience 🖥️
 
 2022
+- Start an internship at RingZero Game Studio.
 - Game Talent Showcase 2022 Presented by Bitkub. [Video](https://youtu.be/uNNSdheJNBk) [itch.io](https://werasilz.itch.io/the-mooz)
 - Game Jam.
   - Global Game Jam 2022 - Late Night Nurse. [Video](https://youtu.be/zoOjFW_cIaA) [Git](https://github.com/Werasilz/Late_Night_Nurse_GGJ_2022)
