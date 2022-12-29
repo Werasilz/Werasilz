@@ -30,10 +30,10 @@
 
 ----
 ### &nbsp;Education 🎓
-2019 - Present
+2019 - 2023
 - Bachelor of Technology Program in Computer Game Multimedia at Rangsit University.
-  - Class President, 2019 - Present, Computer Game Multimedia.
-  - College Vice President, 2020 - Present, College of Digital Innovation Technology.
+  - Class President, 2019 - 2023, Computer Game Multimedia.
+  - College Vice President, 2020 - 2021, College of Digital Innovation Technology.
 
 ----
 ### &nbsp;Work Experience 🖥️
