@@ -37,9 +37,12 @@
 
 ----
 ### &nbsp;Work Experience 🖥️
+2023
+- Game Jam.
+  - Global Game Jam 2023 - Thorani SOOOB. [Video](https://youtu.be/ckGDauvEDzw) [Git](https://github.com/Werasilz/Thorani_SOOOB_GGJ_2023)
 
 2022
-- Start an internship at RingZero Game Studio.
+- Internship at RingZero Game Studio.
 - Game Talent Showcase 2022 Presented by Bitkub. [Video](https://youtu.be/uNNSdheJNBk) [itch.io](https://werasilz.itch.io/the-mooz)
 - Game Jam.
   - Global Game Jam 2022 - Late Night Nurse. [Video](https://youtu.be/zoOjFW_cIaA) [Git](https://github.com/Werasilz/Late_Night_Nurse_GGJ_2022)
