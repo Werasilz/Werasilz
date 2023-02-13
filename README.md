@@ -2,7 +2,7 @@
 
 ### &nbsp;About Me 🚀
 
-🖐️ &nbsp;I'm Unity game developer. Experience in 2D & 3D games, Mobile games Augmented Reality games, Virtual Reality games using Oculus / Cardboard, Virtual tour 360° and Metaverse on Spatial / Sandbox.
+🖐️ &nbsp;Experienced Unity Game Developer specializing in 2D & 3D games on PC and mobile platforms. Skilled in developing AR & VR games using Oculus and Cardboard, as well as Virtual Tours 360° and metaverse on Spatial and Sandbox. 
 
 ----
 ### Tech Stack 🛠
