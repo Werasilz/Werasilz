@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-### &nbsp;About Me 🚀
-
-🖐️ &nbsp;Experienced Unity Game Developer specializing in 2D & 3D games on PC and mobile platforms. Skilled in developing AR & VR games using Oculus and Cardboard, as well as Virtual Tours 360° and metaverse on Spatial and Sandbox. 
+### About Me 🚀
+Experienced Unity Game Developer specializing in 2D & 3D games on PC and mobile platforms. Skilled in developing AR & VR games using Oculus and Cardboard, as well as Virtual Tours 360° and metaverse on Spatial and Sandbox. 
 
 ----
 ### Tech Stack 🛠
@@ -20,7 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 
 ----
-### &nbsp;GitHub Analytics ⚙️
+### GitHub Analytics ⚙️
 <p align="center">
 <a href="https://github.com/Werasilz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Werasilz&show_icons=true&hide_border=true"/>
@@ -29,66 +28,39 @@
 </p>
 
 ----
-### &nbsp;Education 🎓
-2019 - 2023
-- Bachelor of Technology Program in Computer Game Multimedia at Rangsit University.
-  - Class President, 2019 - 2023, Computer Game Multimedia.
-  - College Vice President, 2020 - 2021, College of Digital Innovation Technology.
+### Education 🎓
+Bachelor of Technology Program in Computer Game Multimedia at Rangsit University.
 
 ----
-### &nbsp;Work Experience 🖥️
-2023
-- Game Jam.
-  - Global Game Jam 2023 - Thorani SOOOB. [Video](https://youtu.be/ckGDauvEDzw) [Git](https://github.com/Werasilz/Thorani_SOOOB_GGJ_2023)
+### Work Experience 🖥️
+Internship at RingZero Game Studio.
 
-2022
-- Internship at RingZero Game Studio.
-- Game Talent Showcase 2022 Presented by Bitkub. [Video](https://youtu.be/uNNSdheJNBk) [itch.io](https://werasilz.itch.io/the-mooz)
-- Game Jam.
-  - Global Game Jam 2022 - Late Night Nurse. [Video](https://youtu.be/zoOjFW_cIaA) [Git](https://github.com/Werasilz/Late_Night_Nurse_GGJ_2022)
-
-2021
-- RPG Game Development - The Mooz : A Story of betrayal. [Video](https://youtu.be/jrZXdRgjems)
+----
+### Projects & Contest Events 🎯
+- Global Game Jam 2023 - Thorani SOOOB. [Video](https://youtu.be/ckGDauvEDzw)
+- Game Talent Showcase 2022 Presented by Bitkub - The Mooz:A Story of betrayal. [Video](https://youtu.be/uNNSdheJNBk)
+- Global Game Jam 2022 - Late Night Nurse. [Video](https://youtu.be/zoOjFW_cIaA)
 - Anan Horror Game. [Video](https://youtu.be/gApbeT6qsAo)
-- 360° Virtual Tour.
-- Game Jam.
-  - GMTK Game Jam 2021 - Lost Directions. [Video](https://youtu.be/JmYGcF_nGXk) [Git](https://github.com/Werasilz/Lost_Directions_GMTK_Game_Jam)
-- VR Development.
-  - VR Shooter Game - Grab'n Shoot VR. [Video](https://youtu.be/WOkTBJXtwHo) [Git](https://github.com/Werasilz/CGM499_FinalProject_Grab_n_Shoot_VR)
-  - VR Vaccine for kids. [Video](https://youtu.be/_QiUck2jxVw)
-  - VR Endoscopy for patient.
-  - VR Cardboard - Thailand 2077 Farming Tech VR. [Video](https://youtu.be/iwAmVzQL_bo) [Git](https://github.com/Werasilz/Thailand_2077_Farming_Tech_VR)
-
-2020
-- National Software Contest 2021 - Adventure Demon World AR. [Video](https://youtu.be/p95r7JE4m0o) [Git](https://github.com/Werasilz/NSC_2021_Adventure_Demon_World_AR)
-- Game Jam.
-  - Global Game Jam 2020 - Insomnia Just plant it. [Website](https://globalgamejam.org/2020/games/just-plant-it-7)
-  - Game Jam From Home 2020 - Annoying Party House. [Video](https://youtu.be/JfK2sbaOtHk)
-- 2D Game Development.
-  - DuckyBomb. [Video](https://youtu.be/W0L-RTE0svc) [Git](https://github.com/Werasilz/CGM244_MidtermProject_DuckyBomb)
-  - Advanture2D. [Video](https://youtu.be/JNReJQcSimg) [Git](https://github.com/Werasilz/CGM244_FinalProject_Advanture2D)
-- AR Game Development. 
-  - EarthProtector. [Video](https://youtu.be/hOrXUDcJRhg) [Git](https://github.com/Werasilz/CGM499_MidtermProject_EarthProtector)
-  - ZombieShooterAR. [Video](https://youtu.be/Tr4RdN51q3g)
-
-2019
-- OMEN by HP – Gaming Development Bootcamp Program Season 2 - TukTuk2077 express. [Video](https://youtu.be/50kIg9K64UU)
-
-2016 - 2018
-- Talent fair in Arts and Crafts Academic and Technology of students.
-  - Computer Creative Game Making Competition.
-    - 2018 - 2nd place at the national level.
-    - 2017 - 3rd place at the national level. [Video](https://youtu.be/NyltXiypSEc)
-    - 2016 - 1st place at the national level. [Video](https://youtu.be/XggtEimdq5w)
-- High School Game Project
-  - Engine Construct 2. [Playlist](https://www.youtube.com/playlist?list=PLsC5wGKNY9vra0bvrs-2tODympZBeLG5a)
+- GMTK Game Jam 2021 - Lost Directions. [Video](https://youtu.be/JmYGcF_nGXk)
+- Grab'n Shoot VR. [Video](https://youtu.be/WOkTBJXtwHo)
+- VR Vaccine for kids. [Video](https://youtu.be/_QiUck2jxVw)
+- VR Endoscopy for patient.
+- depa3r Enhance Innovation Technology on 3D AR VR MR - Thailand 2077 Farming Tech VR. [Video](https://youtu.be/iwAmVzQL_bo)
+- National Software Contest 2021 - Adventure Demon World AR. [Video](https://youtu.be/p95r7JE4m0o)
+- Global Game Jam 2020 - Insomnia Just plant it. [globalgamejam.org](https://globalgamejam.org/2020/games/just-plant-it-7)
+- Game Jam From Home 2020 - Annoying Party House. [Video](https://youtu.be/JfK2sbaOtHk)
+- DuckyBomb. [Video](https://youtu.be/W0L-RTE0svc)
+- Advanture2D. [Video](https://youtu.be/JNReJQcSimg)
+- EarthProtectorAR. [Video](https://youtu.be/hOrXUDcJRhg)
+- ZombieShooterAR. [Video](https://youtu.be/Tr4RdN51q3g)
+- OMEN by HP Gaming Development Bootcamp Program Season 2 - TukTuk2077 express. [Video](https://youtu.be/50kIg9K64UU)
 
 ----
-### &nbsp;Certification 📄
+### Certification 📄
 [Unity Certified User: Programmer](https://www.credly.com/badges/204ab3b3-8e51-47d7-a7aa-124b696ce305/public_url)
 
 ----
-### &nbsp;Connect with Me 🤝
+### Connect with Me 🤝
 <p align="center">
 <a href="mailto:werasil.r@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.youtube.com/user/MrZenGamer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
