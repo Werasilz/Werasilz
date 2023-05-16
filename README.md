@@ -37,6 +37,7 @@ Internship at RingZero Game Studio.
 
 ----
 ### Projects & Contest Events 🎯
+- YSEALI Game Changers - OZONE PATROL. [Video](https://youtu.be/RJse4P046mE)
 - Global Game Jam 2023 - Thorani SOOOB. [Video](https://youtu.be/ckGDauvEDzw)
 - Game Talent Showcase 2022 Presented by Bitkub - The Mooz:A Story of betrayal. [Video](https://youtu.be/uNNSdheJNBk)
 - Global Game Jam 2022 - Late Night Nurse. [Video](https://youtu.be/zoOjFW_cIaA)
@@ -66,6 +67,7 @@ Internship at RingZero Game Studio.
 <a href="https://www.youtube.com/user/MrZenGamer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/werasil-rerkweang-806287211/"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.reddit.com/user/Werasil_z"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a href="https://werasilz.itch.io/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Itch.io&amp;color=FA5C5C&amp;logo=Itch.io&amp;logoColor=FFFFFF&amp;label="></a>
 <a href="https://steamcommunity.com/id/werasilz/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
 
