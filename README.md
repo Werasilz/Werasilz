@@ -29,31 +29,36 @@ Experienced Unity Game Developer specializing in 2D & 3D games on PC and mobile 
 
 ----
 ### Education 🎓
-Bachelor of Technology Program in Computer Game Multimedia at Rangsit University.
+#### 2019 - 2023 | Bachelor of Technology Program in Computer Game Multimedia at Rangsit University.
 
 ----
 ### Work Experience 🖥️
-Internship at RingZero Game Studio.
+#### 2022 | Internship at RingZero Game Studio.
 
 ----
 ### Projects & Contest Events 🎯
+#### 2023
 - YSEALI Game Changers - OZONE PATROL. [Video](https://youtu.be/RJse4P046mE)
 - Global Game Jam 2023 - Thorani SOOOB. [Video](https://youtu.be/ckGDauvEDzw)
+#### 2022
 - Game Talent Showcase 2022 Presented by Bitkub - The Mooz:A Story of betrayal. [Video](https://youtu.be/uNNSdheJNBk)
 - Global Game Jam 2022 - Late Night Nurse. [Video](https://youtu.be/zoOjFW_cIaA)
+- depa3r Enhance Innovation Technology on 3D AR VR MR - Thailand 2077 Farming Tech VR. [Video](https://youtu.be/iwAmVzQL_bo)
+#### 2021
 - Anan Horror Game. [Video](https://youtu.be/gApbeT6qsAo)
 - GMTK Game Jam 2021 - Lost Directions. [Video](https://youtu.be/JmYGcF_nGXk)
 - Grab'n Shoot VR. [Video](https://youtu.be/WOkTBJXtwHo)
 - VR Vaccine for kids. [Video](https://youtu.be/_QiUck2jxVw)
 - VR Endoscopy for patient.
-- depa3r Enhance Innovation Technology on 3D AR VR MR - Thailand 2077 Farming Tech VR. [Video](https://youtu.be/iwAmVzQL_bo)
 - National Software Contest 2021 - Adventure Demon World AR. [Video](https://youtu.be/p95r7JE4m0o)
+#### 2020
 - Global Game Jam 2020 - Insomnia Just plant it. [globalgamejam.org](https://globalgamejam.org/2020/games/just-plant-it-7)
 - Game Jam From Home 2020 - Annoying Party House. [Video](https://youtu.be/JfK2sbaOtHk)
 - DuckyBomb. [Video](https://youtu.be/W0L-RTE0svc)
 - Advanture2D. [Video](https://youtu.be/JNReJQcSimg)
 - EarthProtectorAR. [Video](https://youtu.be/hOrXUDcJRhg)
 - ZombieShooterAR. [Video](https://youtu.be/Tr4RdN51q3g)
+#### 2019
 - OMEN by HP Gaming Development Bootcamp Program Season 2 - TukTuk2077 express. [Video](https://youtu.be/50kIg9K64UU)
 
 ----
