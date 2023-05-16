@@ -29,11 +29,11 @@ Experienced Unity Game Developer specializing in 2D & 3D games on PC and mobile 
 
 ----
 ### Education 🎓
-#### 2019 - 2023 | Bachelor of Technology Program in Computer Game Multimedia at Rangsit University.
+2019 - 2023 | Bachelor of Technology Program in Computer Game Multimedia at Rangsit University.
 
 ----
 ### Work Experience 🖥️
-#### 2022 | Internship at RingZero Game Studio.
+2022 | Internship at RingZero Game Studio.
 
 ----
 ### Projects & Contest Events 🎯
