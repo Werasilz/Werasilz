@@ -19,15 +19,6 @@ Experienced Unity Game Developer specializing in 2D & 3D games on PC and mobile 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 
 ----
-### GitHub Analytics ⚙️
-<p align="center">
-<a href="https://github.com/Werasilz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Werasilz&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Werasilz&layout=compact&langs_count=8&hide_border=true"/>
-</a>
-</p>
-
-----
 ### Education 🎓
 2019 - 2023 | Bachelor of Technology Program in Computer Game Multimedia at Rangsit University.
 
