@@ -24,7 +24,7 @@ Experienced Unity Game Developer specializing in 2D & 3D games on PC and mobile 
 
 ----
 ### Work Experience 🖥️
-2022 | Internship at RingZero Game Studio.
+2022 | Game Programmer Intern, RingZero Game Studio.
 
 ----
 ### Projects & Contest Events 🎯
