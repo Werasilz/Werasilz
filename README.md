@@ -29,7 +29,7 @@ Experienced Unity Game Developer specializing in 2D & 3D games on PC and mobile 
 ----
 ### Projects & Contest Events 🎯
 #### 2023
-- depa Game Accelerator Program Batch 3 - Orc's Forge.
+- Orc's Forge The Tower Defense Party Game.
 - YSEALI Game Changers - OZONE PATROL. [Video](https://youtu.be/RJse4P046mE)
 - Global Game Jam 2023 - Thorani SOOOB. [Video](https://youtu.be/ckGDauvEDzw)
 #### 2022
