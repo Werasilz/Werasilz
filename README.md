@@ -44,7 +44,7 @@ Experienced Unity Game Developer specializing in 2D & 3D games on PC and mobile 
 - National Software Contest 2021 - Adventure Demon World AR. [Video](https://youtu.be/p95r7JE4m0o)
 - depa3r Enhance Innovation Technology on 3D AR VR MR - Thailand 2077 Farming Tech VR. [Video](https://youtu.be/iwAmVzQL_bo)
 #### 2020
-- Global Game Jam 2020 - Insomnia Just plant it. [globalgamejam.org](https://globalgamejam.org/2020/games/just-plant-it-7)
+- Global Game Jam 2020 - Just plant it. [globalgamejam.org](https://globalgamejam.org/2020/games/just-plant-it-7)
 - Game Jam From Home 2020 - Annoying Party House. [Video](https://youtu.be/JfK2sbaOtHk)
 - DuckyBomb. [Video](https://youtu.be/W0L-RTE0svc)
 - Advanture2D. [Video](https://youtu.be/JNReJQcSimg)
