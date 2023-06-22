@@ -46,10 +46,10 @@ Experienced Unity Game Developer specializing in 2D & 3D games on PC and mobile 
 #### 2020
 - Global Game Jam 2020 - Just plant it. [globalgamejam.org](https://globalgamejam.org/2020/games/just-plant-it-7)
 - Game Jam From Home 2020 - Annoying Party House. [Video](https://youtu.be/JfK2sbaOtHk)
-- DuckyBomb. [Video](https://youtu.be/W0L-RTE0svc)
-- Advanture2D. [Video](https://youtu.be/JNReJQcSimg)
-- EarthProtectorAR. [Video](https://youtu.be/hOrXUDcJRhg)
-- ZombieShooterAR. [Video](https://youtu.be/Tr4RdN51q3g)
+- Ducky Bomb. [Video](https://youtu.be/W0L-RTE0svc)
+- Adventure 2D. [Video](https://youtu.be/JNReJQcSimg)
+- Earth Protector AR. [Video](https://youtu.be/hOrXUDcJRhg)
+- Zombie Shooter AR. [Video](https://youtu.be/Tr4RdN51q3g)
 #### 2019
 - OMEN by HP Gaming Development Bootcamp Program Season 2 - TukTuk2077 express. [Video](https://youtu.be/50kIg9K64UU)
 
