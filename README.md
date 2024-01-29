@@ -24,7 +24,7 @@ Experienced Unity Game Developer specializing in 2D & 3D games on PC and mobile 
 
 ----
 ### Work Experience 🖥️
-2023 - Present | Game Programmer, RedSensationGames.
+2023 - Present | Game Programmer, RedSensationGames.  
 2022 (6 months) | Game Programmer Intern, RingZero Game Studio.
 
 ----
