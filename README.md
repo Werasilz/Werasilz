@@ -28,6 +28,8 @@ Experienced Unity Game Developer specializing in 2D & 3D games on PC and mobile 
 
 ----
 ### Projects & Contest Events 🎯
+#### 2024
+- Global Game Jam 2024 - Yes, I'm drunk. [Video](https://youtu.be/yFl2z8ZuZWY?si=RJb_5OG3thQX_Yo7)
 #### 2023
 - Orc's Forge The Tower Defense Party Game. [Video](https://youtu.be/zm03cLAg11g)
 - YSEALI Game Changers - OZONE PATROL. [Video](https://youtu.be/RJse4P046mE)
