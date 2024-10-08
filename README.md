@@ -10,7 +10,7 @@ I'm Werasil Rerkweang, but you can call me Zen. I'm a game developer who loves u
 
 ----
 ### Work Experience 🖥️
-- **Aug 2023 - Present** | Game Programmer, RedSensationGames  
+- **Aug 2023 - Oct 2024** | Game Programmer, RedSensationGames  
 - **Jun 2022 - Dec 2022** | Game Programmer Intern, RingZero Game Studio
 
 ----
